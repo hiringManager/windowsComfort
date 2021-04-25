@@ -6,14 +6,14 @@
 
 ## General Tools
 
-* *Winget** - **Must Have** if you like APT or convenience.
+* **Winget** - **Must Have** if you like APT or convenience.
 
   * Do not install from the App Store. It will not work properly for some reason and you'll be very confused. 
   * [Releases · microsoft/winget-cli (github.com)](https://github.com/microsoft/winget-cli/releases) <---- Use this link instead.
   * Can activate update searching
   * Can activate store integration (idk why you'd want that since there is so much awful there)
 
-* [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)  - **Must Have** if you use the CLI.
+* **[Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)**  - **Must Have** if you use the CLI.
 
   * Quite customizable
   * Works amazingly with wsl
