@@ -57,15 +57,12 @@
 #### **Powertoys**
 
 **Pros:**
-
 * Easy to setup initially
 * Easy to configure
 
 **Cons:**
-
-​	Made by Microsoft
-
-​	Fancy-Zones is the worst name ever. This isn't Mary Poppins ffs.
+*	Made by Microsoft
+* Fancy-Zones is the worst name ever. This isn't Mary Poppins ffs.
 
 #### **Workspacer**
 
@@ -79,7 +76,7 @@
 
 **Note: **
 
-​			**Any other TILING alternative is either buried in the deepweb, or a meme.**
+*			**Any other TILING alternative is either buried in the deepweb, or a meme.**
 
 #### **DPI Scaling**
 
