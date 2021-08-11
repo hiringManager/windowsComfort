@@ -1,9 +1,5 @@
 # Customization Tools For  m$wm
 
-
-
-[TOC]
-
 ## General Tools
 
 **Winget** - **Must Have** if you like APT or convenience.
@@ -114,7 +110,15 @@ winget install gwsl
 // winget install obs
 // winget install neovim (Does this work without modification?)
 ```
-
+## Scrolling is Not Smooth
+If you're having issues with scrolling not being smooth in Windows generally, Browser, Electron Applications (vscode, discord, typora, etc.)
+  + Ensure 'smooth scroll-list boxes' and 'animate controls and elements inside windows' are ticked in Performance Options.
+  + Ensure you don't have wonky 'scroll acceleration' settings if your computer has a configuration for mouse, touchpad, etc.
+  + Pray
+  + If that didn't work, also check browser options for 'smooth scrolling' 'and hardware accel' Messing with those should fix it.
+  ( edge://flags chrome://flags or wherever in firefox.)
+  + One other solution seems to be setting 'Lines to Scroll At A Time' to '1' instead of '3' under Bluetooth And Mouse. (Redundant setting in the old mouse options, so check that too.) 
+Windows seems to detick this for some people, regardless of hardware. If you've disabled 'animations' inside of Accessibility Settings, that'll break it too. 
 
 
 ## Future Additions
@@ -127,3 +131,6 @@ winget install gwsl
 - [ ] Add an easy script to install Doom Emacs in WSL.
   - [ ] wget from main src, compile, set up dir, weren't there path issues?
 - [ ] Figure out formatting issues
+
+
+
