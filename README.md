@@ -10,9 +10,8 @@
 
   * Do not install from the App Store. It will not work properly for some reason and you'll be very confused. 
   * [Releases · microsoft/winget-cli (github.com)](https://github.com/microsoft/winget-cli/releases) <---- Use this link instead.
-  * Can activate update searching
-  * Can activate store integration (idk why you'd want that since there is so much awful there)
-
+  * Included by default supposedly, but probably still need to grab it from the git on Windows 10. 
+  
 **[Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)**  - **Must Have** if you use the CLI.
   * Quite customizable
   * Works amazingly with wsl
@@ -22,6 +21,7 @@
   * Can change background to Anime Waifu (But only in the workplace, remember that.)
 
 **WinaeroTweaker** - Windows Customization Tool
+Can lead to breakage that you can't easily fix. Make sure to make a restore point before messing with anything dealing with compositing, window sizing, or anything that affects appearance. Don't fiddle with stuff unless you need to -without a restore point-, or you will regret it. 
   * Borders for each window
   * Title-bar Reduction
   * Global font settings (breakage)
@@ -32,7 +32,8 @@
 **Powertoys** - Many Various Useful Tools
   * Hotkeys
   * Runner (very featureful, but kinda eh)
-  * Other quasi-useful utilities
+  * Other useful utilities
+  * Keyboard shortcuts are mildly unreliable without being escalated.
 
 * [Files ](https://www.microsoft.com/en-us/p/files/9nghp3dx8hdx?activetab=pivot:overviewtab) - Terribly named but fantastic File Manager (Although in their defense 'Dolphin' and 'Thunar' suffer the same fate... And p much all Linux file managers now that I think about it. Nautilus? PCMANFM-QT? Really?)
   * You must enable split layout
